@@ -1,0 +1,72 @@
+{
+  "bottomRow": 103,
+  "defaultHistory": [
+    {
+      "content": "Hello there, how can I help you today?",
+      "filteredSources": [],
+      "from": "ASSISTANT",
+      "id": "aa882524-cbec-42fb-8164-41cfff1ec9ba",
+      "sources": [],
+      "timestamp": 1745942331399
+    },
+    {
+      "content": "What are the best shoes for running?",
+      "filteredSources": [],
+      "from": "USER",
+      "id": "16ed2f56-7403-45dd-96e5-77444b31dc73",
+      "sources": [],
+      "timestamp": 1745942331399
+    },
+    {
+      "content": "For running, brands like Nike, Adidas, and Brooks are highly recommended. Do you need help finding a specific type of shoe?",
+      "filteredSources": [],
+      "from": "ASSISTANT",
+      "id": "e55610d5-449b-4507-ab24-bfca7898ab6b",
+      "sources": [],
+      "timestamp": 1745942331399
+    },
+    {
+      "content": "What about trail running?",
+      "filteredSources": [],
+      "from": "USER",
+      "id": "1b031073-cf32-4e1d-944e-d45c3318ec5d",
+      "sources": [],
+      "timestamp": 1745942331399
+    },
+    {
+      "content": "For trail running, I recommend brands like Salomon, Merrell, and Hoka One One. [source](https://www.example.com/trail-running-shoes)",
+      "filteredSources": [
+        {
+          "id": "https://www.example.com/trail-running-shoes",
+          "score": 0.8
+        }
+      ],
+      "from": "ASSISTANT",
+      "id": "c7948ffa-716f-4659-a19d-6c390c0fac7a",
+      "sources": [],
+      "timestamp": 1745942331399
+    }
+  ],
+  "dynamicBindingPathList": [],
+  "isCanvas": false,
+  "isLoading": false,
+  "isSpreadBackendEnabled": true,
+  "isVisible": true,
+  "key": "1tcfs7iwx1",
+  "leftColumn": 10,
+  "mobileBottomRow": 103,
+  "mobileLeftColumn": 10,
+  "mobileRightColumn": 37,
+  "mobileTopRow": 43,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 16.6875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 37,
+  "topRow": 43,
+  "type": "CHAT_WIDGET",
+  "version": 1,
+  "widgetId": "k650l5ddc0",
+  "widgetName": "Chat1"
+}
